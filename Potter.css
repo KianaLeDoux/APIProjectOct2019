@@ -19,7 +19,7 @@ ul {
 }
 
 .submit{
-    border: 1px solid black; */
+    border: 1px solid black;
     font-family: 'Slabo 27px', serif;
     background-color: tan;
     position: relative;
@@ -28,7 +28,7 @@ ul {
 }
   
   .submitflip {
-    border: 1px solid black; */
+    border: 1px solid black; 
     font-family: 'Slabo 27px', serif;
     background-color: tan;
     position: relative;
