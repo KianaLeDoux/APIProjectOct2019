@@ -1,8 +1,94 @@
-.main {
-    background-image: url(../APIProject/ASSESTS/harry\ potter-jpeg.jpeg);
+.mainone {
+    background-image: url('./ASSESTS/paper-1074136__340.jpg');
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
+    background-color: black;
+}
+
+.maintwo {
+    background-image: url('./ASSESTS/oldbook.jpg');
+    background-size: 100%;
+    background-repeat: repeat;
+    background-color: black;
 }
 
 
+ul {
+ font-family: 'Slabo 27px', serif;
+ 
+}
+
+.submit{
+    border: 1px solid black; */
+    font-family: 'Slabo 27px', serif;
+    background-color: tan;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+}
+  
+  .submitflip {
+    border: 1px solid black; */
+    font-family: 'Slabo 27px', serif;
+    background-color: tan;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+  }
+    
+
+#rot
+{
+   -webkit-transform: rotate(-5deg); 
+   -moz-transform: rotate(65deg);    
+    width:100px;
+    position: absolute;
+    top: 100px;
+    left: 820px;
+}
+
+
+
+#background {
+    /* border: 1px solid black; */
+    
+
+}
+
+h1 {
+    /* border: 1px solid black; */
+    width: 18%;
+    margin: auto;
+    padding: 10px;
+    font-family: 'Katibeh', cursive;
+}
+
+h2 {
+    /* border: 1px solid black; */
+    width: 18%;
+    height: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Katibeh', cursive;
+}
+
+/* .class{
+    border: 1px solid black;
+    left: -20%;
+} */
+
+.rosterbutton {
+/* border: 1px solid black; */
+width: 50%;
+height: 10%;
+margin: auto;
+}
+
+#characters {
+    /* border: 1px solid red;  */
+    width: 50%;
+    height: 10%;
+    margin: auto;
+
+}
 
